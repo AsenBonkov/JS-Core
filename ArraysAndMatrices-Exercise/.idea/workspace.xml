@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d150e8b5-28ab-42dd-a2e4-3b3e11c6c7be" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P01PrintArray.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P02PrintEveryNthEl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P03AddRemoveEls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P04RotateArray.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P05ExtraxtIncr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P06SortArray.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P07MagicMatrices.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P08SpiralMatrix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P09DiagonalAttack.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/P10Orbit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Regex-Strings-Lab/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../Regex-Strings-Lab/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Regex-Strings-Lab/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="P01PrintArray.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P01PrintArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <marker date="1517398862948" expanded="true" signature="23:222" ph="{...}" />
+                <marker date="1517398862948" expanded="true" signature="90:144" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P02PrintEveryNthEl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P02PrintEveryNthEl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <folding>
+                <marker date="1517399359646" expanded="true" signature="23:239" ph="{...}" />
+                <marker date="1517399359646" expanded="true" signature="104:236" ph="{...}" />
+                <marker date="1517399359646" expanded="true" signature="139:182" ph="{...}" />
+                <marker date="1517399359646" expanded="true" signature="187:230" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P03AddRemoveEls.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P03AddRemoveEls.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <marker date="1517400542582" expanded="true" signature="27:455" ph="{...}" />
+                <marker date="1517400542582" expanded="true" signature="107:319" ph="{...}" />
+                <marker date="1517400542582" expanded="true" signature="169:228" ph="{...}" />
+                <marker date="1517400542582" expanded="true" signature="258:313" ph="{...}" />
+                <marker date="1517400542582" expanded="true" signature="349:385" ph="{...}" />
+                <marker date="1517400542582" expanded="true" signature="390:453" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P04RotateArray.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P04RotateArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <marker date="1517401376684" expanded="true" signature="24:211" ph="{...}" />
+                <marker date="1517401376684" expanded="true" signature="112:178" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P05ExtraxtIncr.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P05ExtraxtIncr.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <marker date="1517402369686" expanded="true" signature="40:305" ph="{...}" />
+                <marker date="1517402369686" expanded="true" signature="147:263" ph="{...}" />
+                <marker date="1517402369686" expanded="true" signature="184:225" ph="{...}" />
+                <marker date="1517402369686" expanded="true" signature="230:257" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P06SortArray.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P06SortArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <marker date="1517402647007" expanded="true" signature="22:409" ph="{...}" />
+                <marker date="1517402647007" expanded="true" signature="67:407" ph="{...}" />
+                <marker date="1517402647007" expanded="true" signature="199:278" ph="{...}" />
+                <marker date="1517402647007" expanded="true" signature="318:400" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P07MagicMatrices.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/P07MagicMatrices.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P08SpiralMatrix.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P08SpiralMatrix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-935">
+              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P09DiagonalAttack.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P09DiagonalAttack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P10Orbit.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P10Orbit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/P05ExtraxtNon.js" />
+        <option value="$PROJECT_DIR$/P09DiagonalAttack.js" />
+        <option value="$PROJECT_DIR$/P10Orbit.js" />
+        <option value="$PROJECT_DIR$/P01PrintArray.js" />
+        <option value="$PROJECT_DIR$/P02PrintEveryNthEl.js" />
+        <option value="$PROJECT_DIR$/P03AddRemoveEls.js" />
+        <option value="$PROJECT_DIR$/P04RotateArray.js" />
+        <option value="$PROJECT_DIR$/P05ExtraxtIncr.js" />
+        <option value="$PROJECT_DIR$/P06SortArray.js" />
+        <option value="$PROJECT_DIR$/P08SpiralMatrix.js" />
+        <option value="$PROJECT_DIR$/P07MagicMatrices.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="width" value="1639" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ArraysAndMatrices-Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArraysAndMatrices-Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.P07MagicMatrices.js">
+    <configuration name="P03AddRemoveEls.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="P03AddRemoveEls.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="P04RotateArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="P04RotateArray.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="P05ExtraxtIncr.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="P05ExtraxtIncr.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="P07MagicMatrices.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="P07MagicMatrices.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="P08SpiralMatrix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="P08SpiralMatrix.js" working-dir="$PROJECT_DIR$" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.P03AddRemoveEls.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.P04RotateArray.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.P05ExtraxtIncr.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.P08SpiralMatrix.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.P07MagicMatrices.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.P07MagicMatrices.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.P08SpiralMatrix.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.P05ExtraxtIncr.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.P04RotateArray.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.P03AddRemoveEls.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d150e8b5-28ab-42dd-a2e4-3b3e11c6c7be" name="Default" comment="" />
+      <created>1517398338712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517398338712</updated>
+      <workItem from="1517398339859" duration="6096000" />
+      <workItem from="1517495726359" duration="2023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8119000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="260" y="0" width="1639" height="1038" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15977791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3118757" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/P01PrintArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1517398862948" expanded="true" signature="23:222" ph="{...}" />
+            <marker date="1517398862948" expanded="true" signature="90:144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P03AddRemoveEls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1517400542582" expanded="true" signature="27:455" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="107:319" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="169:228" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="258:313" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="349:385" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="390:453" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P04RotateArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1517401376684" expanded="true" signature="24:211" ph="{...}" />
+            <marker date="1517401376684" expanded="true" signature="112:178" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P05ExtraxtIncr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1517402369686" expanded="true" signature="40:305" ph="{...}" />
+            <marker date="1517402369686" expanded="true" signature="147:263" ph="{...}" />
+            <marker date="1517402369686" expanded="true" signature="184:225" ph="{...}" />
+            <marker date="1517402369686" expanded="true" signature="230:257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P06SortArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <marker date="1517402647007" expanded="true" signature="22:409" ph="{...}" />
+            <marker date="1517402647007" expanded="true" signature="67:407" ph="{...}" />
+            <marker date="1517402647007" expanded="true" signature="199:278" ph="{...}" />
+            <marker date="1517402647007" expanded="true" signature="318:400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P07MagicMatrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P08SpiralMatrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P09DiagonalAttack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P10Orbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P02PrintEveryNthEl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <marker date="1517399359646" expanded="true" signature="23:239" ph="{...}" />
+            <marker date="1517399359646" expanded="true" signature="104:236" ph="{...}" />
+            <marker date="1517399359646" expanded="true" signature="139:182" ph="{...}" />
+            <marker date="1517399359646" expanded="true" signature="187:230" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P09DiagonalAttack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P10Orbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P01PrintArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1517398862948" expanded="true" signature="23:222" ph="{...}" />
+            <marker date="1517398862948" expanded="true" signature="90:144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P04RotateArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1517401376684" expanded="true" signature="24:211" ph="{...}" />
+            <marker date="1517401376684" expanded="true" signature="112:178" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P03AddRemoveEls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1517400542582" expanded="true" signature="27:455" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="107:319" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="169:228" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="258:313" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="349:385" ph="{...}" />
+            <marker date="1517400542582" expanded="true" signature="390:453" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P05ExtraxtIncr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1517402369686" expanded="true" signature="40:305" ph="{...}" />
+            <marker date="1517402369686" expanded="true" signature="147:263" ph="{...}" />
+            <marker date="1517402369686" expanded="true" signature="184:225" ph="{...}" />
+            <marker date="1517402369686" expanded="true" signature="230:257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P06SortArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <marker date="1517402647007" expanded="true" signature="22:409" ph="{...}" />
+            <marker date="1517402647007" expanded="true" signature="67:407" ph="{...}" />
+            <marker date="1517402647007" expanded="true" signature="199:278" ph="{...}" />
+            <marker date="1517402647007" expanded="true" signature="318:400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P02PrintEveryNthEl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding>
+            <marker date="1517399359646" expanded="true" signature="23:239" ph="{...}" />
+            <marker date="1517399359646" expanded="true" signature="104:236" ph="{...}" />
+            <marker date="1517399359646" expanded="true" signature="139:182" ph="{...}" />
+            <marker date="1517399359646" expanded="true" signature="187:230" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P08SpiralMatrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-935">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P07MagicMatrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
