@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="753e10ed-bc2a-454d-a215-7e5ae683bdb0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P01SumNumbers.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P02ShowMore.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P03CollectListItems.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P04ColorizeTable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P05Countdown.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P06ExtractParenthesis.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P07SumTable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/P01.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/P02.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/P03.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/P04.js" />
-      <change beforePath="$PROJECT_DIR$/../JSONandObjects/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JSONandObjects/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="753e10ed-bc2a-454d-a215-7e5ae683bdb0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -151,7 +132,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="107" />
     <option name="width" value="1792" />
     <option name="height" value="1038" />
@@ -196,6 +177,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -242,15 +224,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518530248471</updated>
-      <workItem from="1518530249673" duration="6885000" />
+      <workItem from="1518530249673" duration="6938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6885000" />
+    <option name="totallyTimeSpent" value="6938000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="0" width="1792" height="1038" extended-state="1" />
+    <frame x="107" y="0" width="1792" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13754228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />

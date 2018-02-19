@@ -9,13 +9,13 @@ function solve(str) {
     let firstPattern = /<svg>.*<\/svg>/.exec(str)
     if (firstPattern) {
 
-        let pattern = /<cat><text>.+\[(.+)\]<\/text><\/cat>\s*<cat>(?:<g><val>((?:\d+))<\/val>((?:\d+))<\/g>)+<\/cat>/gm.exec(str)
+        let pattern = /<cat>\s*<text>.+\[(.+)\].*<\/text>\s*<\/cat>\s*<cat>\s*(?:<g>\s*<val>\s*((?:\d+))\s*<\/val>\s*((?:\d+))\s*<\/g>)+\s*<\/cat>/gm.exec(str)
         if (pattern) {
 
             let usefulText = pattern[0]
             let surveyLabel = pattern[1]
 
-            let secondaryText = /<cat><g><val>(.+)<\/g><\/cat>/g.exec(usefulText)[1]
+            let secondaryText = /<cat>\s*<g>\s*<val>(.+)<\/g>\s*<\/cat>/g.exec(usefulText)[1]
 
             let reg = /[0-9]+/g
 
