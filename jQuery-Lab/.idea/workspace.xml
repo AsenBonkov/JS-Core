@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fab1458b-47f4-4a05-9d82-14a6adc4755f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Exercise/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Exercise/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Exercise/P01Subtraction.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Exercise/P02FillDropdown.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Exercise/P03Accordion.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Exercise/P04Sections.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Exercise/P05Notification.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Exercise/P06TimeConverter.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Exercise/P07DistanceConverter!!!.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/P01ListOfItems.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/P02AddAndDelete.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/P03DeleteFromTable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/P04Stopwatch.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/P05MouseGradient.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/P06HighlightActive.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/P07DynamicValidation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DOM-Manipulations-Lab/gradient.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P01TextFromList.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P02SearchInList.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P03CountriesTable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P04LinkButtons.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/P05SelectableTowns.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery-3.3.1.min.js" />
-      <change beforePath="$PROJECT_DIR$/../DOM-Lab/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../DOM-Lab/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/P03.js" afterPath="$PROJECT_DIR$/../JS-Fund-Exam-11/02/18/P03.js" />
+      <change beforePath="$PROJECT_DIR$/P05SelectableTowns.html" afterPath="$PROJECT_DIR$/P05SelectableTowns.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -107,8 +75,8 @@
       <file leaf-file-name="P05SelectableTowns.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/P05SelectableTowns.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="276">
+              <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -241,12 +209,12 @@
       <updated>1518789641713</updated>
       <workItem from="1518789642904" duration="5560000" />
       <workItem from="1519039047263" duration="1447000" />
-      <workItem from="1519050804438" duration="10472000" />
+      <workItem from="1519050804438" duration="10734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17479000" />
+    <option name="totallyTimeSpent" value="17741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="0" width="1792" height="1038" extended-state="0" />
@@ -394,8 +362,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P05SelectableTowns.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="276">
+          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
           <folding />
         </state>
       </provider>

@@ -43,8 +43,10 @@
 
 
         $('#showTownsButton').on('click', function () {
-            let arr = $('#items li[data-selected]').toArray().map(el => el.textContent)
-            $('#selectedTowns').text(`Selected towns: ${arr.join(', ')}`)
+            let arr = $('#items li[data-selected]')
+                .toArray().map(el => el.textContent)
+            $('#selectedTowns')
+                .text(`Selected towns: ${arr.join(', ')}`)
         })
     }
 </script>
